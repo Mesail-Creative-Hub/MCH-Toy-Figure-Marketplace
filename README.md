@@ -1,7 +1,7 @@
 ## Toys-MCH
 
-#server
+# server
 - Menggunakan framework Laravel
 
-#client
+# client
 - Menggunakan framework Flutter
